@@ -1,1 +1,1 @@
-Login feature successfully completed
+Added staying in master branch
